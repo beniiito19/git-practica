@@ -1,3 +1,3 @@
-hola
+HOLA DESDE CONFLICTO
 nuevo texto
 texto desde rama1
